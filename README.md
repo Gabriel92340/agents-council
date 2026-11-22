@@ -1,4 +1,4 @@
-# conseil-agents
+# agents-council
 
 A Claude Code skill that runs a council of Claude subagents with distinct roles, inspired by Karpathy's LLM Council. No API key needed: it runs inside Claude Code on your existing subscription.
 
